@@ -14,19 +14,17 @@ body{
 	 </style>
 </head>
 <body>
-<h3>PARENTS</h3>
-<p><a href="eman.php" target="content">Emmanuel Manloloyo</a></p>
-<p><a href="jona.php" target="content">Jonaliza Manloloyo</a></p>
-<h3>MY FAMILY MEMBERS</h3>
-<p><a href="stephanie.php" target="content">Stephanie Manloloyo</a></p>
-<p><a href="marj.php" target="content">Marjorie Manloloyo</a></p>
-<p><a href="isyan.php" target="content">Christian Manloloyo</a></p>
-<p><a href="jude.php" target="content">Jude Manloloyo</a></p>
-<p><a href="john.php" target="content">Jessie John Manloloyo</a></p>
-<p><a href="kath.php" target="content">Kathlyn Manloloyo</a></p>
-<h3>MY FRIENDS</h3>
-<p><a href="jena.php" target="content">Rejena Pitogo</a></p>
-<p><a href="vina.php" target="content">Divina De Jesus</a></p>
+<h3>Informations</h3>
+<p><a href="ivy.php" target="content">Ivy Villaignacio</a>
+<p><a href="ang.php" target="content">Angel Ann Flores</a>
+<p><a href="ar.php" target="content">Arlene T. Alfeche</a>
+<p><ahref="jeff.php" target="content">Jeff Alicante</a>
+<p><ahref="but.php" target="content">Anton Clifford Villarta</a>
+<p><ahref="inang.php" target="content">Rejena Grace S. Pitogo</a>
+<p><a href="tol.php" target="content">Cristylle A. Tayco</a>
+<p><ahref="drey.php" target="content">Andrey Jade Alferez</a>
+<p><a href="rich.php" target="content">Richard Jim N. Aliganga</a>
+<p><a href="mel.php" target="content">Carmel A. Tayco</a></p>
 
 </body>
-</html>
+</html
